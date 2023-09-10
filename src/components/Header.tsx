@@ -15,7 +15,7 @@ export default function Navbar() {
                 href="/about"
                 className="hover:text-purple-400 duration-300"
               >
-                About
+                About Me
               </Link>
             </li>
             <li>
@@ -23,7 +23,7 @@ export default function Navbar() {
                 href="/projects"
                 className="hover:text-purple-400 duration-300"
               >
-                Projects
+                My Projects
               </Link>
             </li>
           </ul>
